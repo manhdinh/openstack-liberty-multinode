@@ -3,7 +3,7 @@
 ### Chuẩn bị môi trường LAB
 - Sử dụng trong môi trường VMware Workstation
 
-#### Cấu hình NODE CONTROLLER
+#### Cấu hình CONTROLLER NODE
 ```sh
 RAM: 4GB
 CPU: 2x2, có hỗ trợ VT
